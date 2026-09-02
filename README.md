@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vitor-Maurina
 - 👀 I’m interested in Solve Problems, learn new languages and technology
-- 🌱 I’m currently learning Javascript
+
 
 
 <!---
